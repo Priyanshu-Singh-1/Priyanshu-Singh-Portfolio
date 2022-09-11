@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Fredoka+One&family=Lato:wght@400;700&family=Lobster&family=Poppins:wght@400;500;600;700&display=swap');
+
+
 *{
 	font-family: 'Lato', sans-serif;
 	padding: 0;
@@ -11,6 +13,11 @@
 html{
 	scroll-behavior: smooth;
 }
+/* #starfield{
+	width:100vw;
+	height:100vh;
+	overflow:hidden;
+} */
 
 h1, h2, h3, h4, h5, h6, span{
 	color: white;
@@ -85,9 +92,16 @@ li{
 
 }
 
+/* UPDATED THE TITLE */
 .text-purple{
 	color:#159d11;
 }
+
+.text-purple a{
+	color:#159d11;
+	text-decoration: none;
+}
+
 /* UPDATED THE NTH CHILD BACKGROUND COLOR FOR BOTH ODD AND EVEN */
 section:nth-child(even)
 {
@@ -165,6 +179,7 @@ nav{
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
+	/* overflow: hidden; */
 }
 
 .about-me__info{
@@ -311,11 +326,14 @@ nav{
 	position: relative;
 
 }
+
 .language__img--wrapper{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	padding: 25px 16px;
+	cursor: pointer;
+	/* border-radius: 500px; */
 	
 }
 
@@ -333,12 +351,28 @@ nav{
 	transform: scale(0);
 	transition: all 300ms ;
 	font-size: 20px;
+	
 }
-
+.language__name_1{
+	position: absolute;
+	bottom: 0;
+	transform: scale(0);
+	transition: all 300ms ;
+	font-size: 18px;
+}
 .language:hover .language__name{
 	transform: scale(1);
 	opacity: 1;
+	
 }
+
+.language:hover .language__name_1{
+	transform: scale(1);
+	opacity: 1;
+	
+}
+
+
 
 /* PROJECTS */
 
@@ -351,7 +385,7 @@ nav{
 }
 .project__img{
 	width: 100%;
-	/* height: 600px; */
+	/* height: 500px; */
 	transition: all 500ms ease;
 }
 
