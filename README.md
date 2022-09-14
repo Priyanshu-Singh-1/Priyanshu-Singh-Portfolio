@@ -1,7 +1,13 @@
 # Priyanshu-Singh-Portfoilio
 
-This is my first web application project.
+Personal Protfolio - Priyanshu Singh
 
-# Demo
+
+# Technologies Used
+
+HTML, CSS, JavaScript
+
+
+# Live Project
 
 https://priyanshu-singh-1.github.io/Priyanshu-Singh-Portfolio/
