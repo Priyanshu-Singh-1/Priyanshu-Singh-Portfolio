@@ -5,7 +5,7 @@ Personal Protfolio - Priyanshu Singh
 
 # Technologies Used
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, BootStrap
 
 
 # Live Project
