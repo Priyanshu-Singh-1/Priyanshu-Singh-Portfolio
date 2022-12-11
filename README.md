@@ -1,6 +1,6 @@
 # Priyanshu-Singh-Portfoilio
 
-Personal Protfolio - Priyanshu Singh
+Personal Protfolio - Priyanshu Singh 🌟 
 
 
 # Technologies Used
@@ -15,4 +15,4 @@ Personal Protfolio - Priyanshu Singh
 
 https://priyanshu-singh-1.github.io/Priyanshu-Singh-Portfolio/
 
-🌟 the repo if you liked my portfolio.
+
