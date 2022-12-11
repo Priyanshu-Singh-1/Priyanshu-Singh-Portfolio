@@ -14,3 +14,5 @@ Personal Protfolio - Priyanshu Singh
 # Live Project
 
 https://priyanshu-singh-1.github.io/Priyanshu-Singh-Portfolio/
+
+🌟 the repo if you liked my portfolio.
