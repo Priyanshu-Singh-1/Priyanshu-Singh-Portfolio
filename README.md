@@ -13,6 +13,6 @@ Personal Protfolio - Priyanshu Singh 🌟
 
 # Live Project
 
-https://priyanshu-singh-1.github.io/Priyanshu-Singh-Portfolio/
+http://priyanshusingh.co/
 
 
