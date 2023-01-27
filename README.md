@@ -1,6 +1,6 @@
 # Priyanshu-Singh-Portfoilio
 
-Personal Protfolio - Priyanshu Singh 🌟 
+Personal Protfolio - Priyanshu Singh 🌟  
 
 
 ## Technologies Used 
