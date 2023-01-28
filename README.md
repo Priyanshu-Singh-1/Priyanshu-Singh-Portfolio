@@ -2,7 +2,6 @@
 
 Personal Protfolio - Priyanshu Singh 🌟
 
-
 ## Technologies Used 
 
 
