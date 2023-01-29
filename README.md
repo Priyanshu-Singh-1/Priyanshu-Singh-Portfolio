@@ -1,4 +1,4 @@
-# Priyanshu-Singh-Portfoilio
+# My Portfolio
 
 Personal Protfolio - Priyanshu Singh 🌟
 
