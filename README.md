@@ -12,6 +12,8 @@ Personal Protfolio - Priyanshu Singh 🌟
 
 ## Live Project  
 
-http://priyanshusingh.co/
+~http://priyanshusingh.co/~ (Domain Expired)
+
+https://priyanshu-singh-1.github.io/Priyanshu-Singh-Portfolio (Live Link)
 
 
